@@ -1,6 +1,6 @@
 # UART
 
-This is the lab9 of Basic Electronic Lab, Peking University 2025 Spring.
+This is the lab9 of Basic Electronics Lab, Peking University 2025 Spring.
 
 This is our design of UART.
 
